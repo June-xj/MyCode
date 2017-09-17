@@ -1,0 +1,16 @@
+package cn.itcast_02;
+
+import java.util.Scanner;
+
+public class RegexTest {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Please input e-mail:");
+		String mail=sc.nextLine();
+		
+		String regex="[a-zA-z0-9]+@[a-zA-z0-9]+(\\.[a-zA-z0-9])+";
+		
+		boolean flag=mail.matches(regex);
+		System.out.println(flag);
+	}
+}

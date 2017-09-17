@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GuessNumber.java&apos; to &apos;day22_IO/src/cn.itcast_08&apos;&#x0D;&#x0A;- Original project: &apos;day22_login_regist&apos;&#x0D;&#x0A;- Destination element: &apos;day22_IO/src/cn.itcast_08&apos;&#x0D;&#x0A;- Original element: &apos;cn.itcast.game.GuessNumber.java&apos;" description="Copy compilation unit" destination="=day22_IO/src&lt;cn.itcast_08" element1="/src&lt;cn.itcast.game{GuessNumber.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1497754832486" units="1" version="1.0"/>
+</session>
